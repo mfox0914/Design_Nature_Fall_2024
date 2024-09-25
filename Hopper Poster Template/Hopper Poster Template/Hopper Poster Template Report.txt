@@ -1,0 +1,74 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Hopper Poster Template.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 11 in x 17 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Arial (OTF)
+Arial Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/timsauder/Desktop/Final Hopper Poster Folder/Links/Main Hopper Image.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1054K, 600 by 600 pixels
+Dimensions: 541.052 by 541.052 points 
+Resolution: 79.844 by 79.844 pixels per inch
+
+
+/Users/timsauder/Desktop/Final Hopper Poster Folder/Links/01 Sketch.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 729K, 576 by 432 pixels
+Dimensions: 760.913 by 570.685 points 
+Resolution: 54.503 by 54.503 pixels per inch
+
+
+/Users/timsauder/Desktop/Final Hopper Poster Folder/Links/02 Sketch Model.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2025K, 720 by 960 pixels
+Dimensions: 457.709 by 343.282 points 
+Resolution: 113.26 by 201.351 pixels per inch
+
+
+/Users/timsauder/Desktop/Final Hopper Poster Folder/Links/03 Experimental Prototype.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1139K, 720 by 540 pixels
+Dimensions: 449.725 by 337.294 points 
+Resolution: 115.27 by 115.27 pixels per inch
